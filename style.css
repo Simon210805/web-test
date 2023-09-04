@@ -1,0 +1,7 @@
+h1{
+    background: rgb(150, 113, 184); text-align: center;
+} 
+p {
+    background: blue;
+}
+.container {justify-content: flex-start}
